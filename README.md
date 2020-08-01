@@ -50,8 +50,6 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Personal Website Design](https://www.youtube.com/watch?v=jipEX4b9v0w)
-- [04 - Adding Parallax Effect (View Pager with Kotlin)](https://www.youtube.com/watch?v=Wn50O-L4gm8)
 <!-- YOUTUBE:END -->
 
 ---
