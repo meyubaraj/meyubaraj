@@ -44,6 +44,10 @@
 
 <br /><br /><br />
 
+### StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Personal Website Design](https://www.youtube.com/watch?v=jipEX4b9v0w)
@@ -59,7 +63,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yubarajshrestha&show_icons=true&hide_border=true" />
+<img align="left" alt="Yubaraj Shrestha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yubarajshrestha&show_icons=true&hide_border=true" />
 
 [website]: https://yubarajshrestha.com.np
 [twitter]: https://twitter.com/meyubaraj
