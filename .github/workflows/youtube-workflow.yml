@@ -1,4 +1,4 @@
-name: Latest stack overflow activity
+name: Latest YouTube Videos
 on:
   schedule:
     # Runs every 5 minutes
@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest activity from StackOverflow
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
